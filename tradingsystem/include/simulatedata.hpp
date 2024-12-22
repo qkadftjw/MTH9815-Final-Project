@@ -27,7 +27,7 @@ const std::vector<std::string> CUSIPS_VEC = {
 class DataSimulator {
 public:
     // Constants Definition
-    static constexpr int PRICES_PER_SECURITY = 1000; // 1,000,000 prices per security
+    static constexpr int PRICES_PER_SECURITY = 1000000; // 1,000,000 prices per security
     static constexpr int TOTAL_SECURITIES = 7;
     static constexpr int TRADES_PER_SECURITY = 10; // 10 trades per security
     static constexpr int ORDER_BOOK_DEPTH = 5;
