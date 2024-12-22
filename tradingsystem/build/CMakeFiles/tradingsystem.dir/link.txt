@@ -1,0 +1,1 @@
+/usr/bin/g++-13 CMakeFiles/tradingsystem.dir/src/main.cpp.o -o tradingsystem 

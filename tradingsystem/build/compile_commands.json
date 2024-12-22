@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/ftw/mth_9815/Final_Project/tradingsystem/build",
+  "command": "/usr/bin/g++-13  -I/home/ftw/mth_9815/Final_Project/tradingsystem/include -I/home/ftw/mth_9815/Final_Project/tradingsystem/src -std=gnu++20 -o CMakeFiles/tradingsystem.dir/src/main.cpp.o -c /home/ftw/mth_9815/Final_Project/tradingsystem/src/main.cpp",
+  "file": "/home/ftw/mth_9815/Final_Project/tradingsystem/src/main.cpp",
+  "output": "CMakeFiles/tradingsystem.dir/src/main.cpp.o"
+}
+]

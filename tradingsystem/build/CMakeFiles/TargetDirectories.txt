@@ -1,0 +1,3 @@
+/home/ftw/mth_9815/Final_Project/tradingsystem/build/CMakeFiles/tradingsystem.dir
+/home/ftw/mth_9815/Final_Project/tradingsystem/build/CMakeFiles/edit_cache.dir
+/home/ftw/mth_9815/Final_Project/tradingsystem/build/CMakeFiles/rebuild_cache.dir
